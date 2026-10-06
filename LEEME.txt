@@ -1,8 +1,0 @@
-NEXOBYTE 67
-
-1. Extrae TODO el contenido del ZIP a una carpeta.
-2. Abre ABRIR_JUEGO.bat o index.html.
-3. En MULTIJUEGOS, haz DOBLE CLIC en el juego.
-4. Aparece 5, 4, 3, 2, 1 y luego ¡YA!
-
-No abras el index.html desde dentro del ZIP.
